@@ -1,0 +1,29 @@
+section {
+    border: 2px solid red;
+}
+
+.iphone {
+    display: flex;
+    align-items: center;  
+    justify-content: center;
+    gap: 4rem;
+    /* alinhamentp do eixo transversal */
+    /* alinhamento do eixo principal */
+    /* espaco entre os elementos do dp */
+
+    margin-bottom: 1rem;
+}
+
+.iphone img{
+    width: 20rem;
+}
+
+.iphone p{
+    width: 30rem;
+    text-align: center;
+}
+
+.sam img{
+
+
+}
